@@ -23,3 +23,6 @@ jvm  GC
 待补充内存模型详细
 http://www.cnblogs.com/WJ5888/p/4374791.html
 http://gityuan.com/2016/01/09/java-memory/
+
+栈帧
+https://blog.csdn.net/cyp331203/article/details/44906623
