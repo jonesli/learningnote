@@ -9,7 +9,8 @@ http://soft.chinabyte.com/database/279/11431779.shtml
 
 
 
-finally块的语句在try或catch中的return语句执行之后返回之前执行且finally里的修改语句可能影响也可能不影响try或catch中 return已经确定的返回值，若finally里也有return语句则覆盖try或catch中的return语句直接返回。
+finally块的语句 在try或catch的return语句执行之后返回之前执行，且finally里的修改语句可能影响也可能不影响try或catch中 return已经确定的返回值，
+若finally里也有return语句则覆盖try或catch中的return语句直接返回。
 
 http://blog.csdn.net/qq_34120041/article/details/53665628
 
