@@ -58,6 +58,9 @@ Java中Comparable和Comparator区别小结
 ：两种方法各有优劣， 用Comparable 简单， 只要实现Comparable 接口的对象直接就成为一个可以比较的对象，但是需要修改源代码。 用Comparator 的好处是不需要修改源代码
 http://www.cnblogs.com/xujian2014/p/5215082.html
 
-rentrantLock
+rentrantLock 重入锁
 https://www.cnblogs.com/-new/p/7256297.html
 https://blog.csdn.net/Somhu/article/details/78874634
+
+数据库连接池
+https://www.cnblogs.com/xdp-gacl/p/4002804.html
